@@ -30,7 +30,7 @@
 + [50.Pow(x, n)](https://github.com/niuworld/LeetCodeSolution/issues/25)
 + [58.Length of Last Word](https://github.com/niuworld/LeetCodeSolution/issues/17)
 + [83.Remove Duplicates from Sorted Array](https://github.com/niuworld/LeetCodeSolution/issues/14)
-+ [
+
 
 
 
