@@ -27,8 +27,12 @@
 + [38. Count and Say](https://github.com/niuworld/LeetCodeSolution/issues/22)
 + [39.Combination Sum](https://github.com/niuworld/LeetCodeSolution/issues/23)
 + [40.Combination Sum II](https://github.com/niuworld/LeetCodeSolution/issues/24)
++ [48.Rotate Image](https://github.com/niuworld/LeetCodeSolution/issues/30)
 + [50.Pow(x, n)](https://github.com/niuworld/LeetCodeSolution/issues/25)
 + [58.Length of Last Word](https://github.com/niuworld/LeetCodeSolution/issues/17)
++ [66.Plus One](https://github.com/niuworld/LeetCodeSolution/issues/27)
++ [67.Add Binary](https://github.com/niuworld/LeetCodeSolution/issues/28)
++ [70.Climbing Stairs](https://github.com/niuworld/LeetCodeSolution/issues/29)
 + [83.Remove Duplicates from Sorted Array](https://github.com/niuworld/LeetCodeSolution/issues/14)
 
 
