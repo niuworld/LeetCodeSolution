@@ -1,6 +1,6 @@
 # LeetCodeSolution
 
-**Goal** : finish 212 algorithm questions from LeetCode before June.
+**Goal** : finish 212 algorithm questions from LeetCode before September.
 
 **Finished**:
 
